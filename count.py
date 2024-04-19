@@ -5,4 +5,4 @@ while number > 10:
     number = number / 3
     # increase count
     count = count + 1
-print('Total iteration required', count)
+print('Total iteration required:', count)
